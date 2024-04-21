@@ -1,0 +1,15 @@
+{
+  "name": "discord-ban-bot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^3.1.4"
+  }
+}
